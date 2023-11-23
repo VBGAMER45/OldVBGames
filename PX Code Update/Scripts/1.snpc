@@ -1,0 +1,140 @@
+<PPOS>
+ 32 
+ 71 
+<MAP>
+>>>>CDDDDDDDDDE>>>>>>
+><>>F>>>>>>>>>G>>>>>>
+>>>>F>???????>G>>>>>>
+>>>>F>?>>>>=?>G>>>>>>
+>>>>>>?>?????>G>>>>>>
+>>>>F??>>>>>>>G>>>>>>
+>>>>@AAAAAAAAABE>>>>>
+>>>>>>>>>>>F<<<G>>>>>
+>>>>>>>>>>>F???G>>>>>
+>>>>>>>>>>>@A?AB>>>>>
+>>???>>>>>>>>?>>>>>>>
+>>????????????>>>>>>>
+>>???>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>CE>>>>>>>>>>>>>
+>>>>>>@B>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+</MAP>
+<NPC>
+The King
+90
+190
+1
+2
+Farmer
+190
+290
+3
+4
+Peasant
+400
+350
+5
+6
+</NPC>
+<SPEECH>
+<0001>
+Hello, I am the king of the land! I am in need of help.
+0005=How can I help?
+0000=You know what,i dont realy feel like helping you!
+<0002>
+Oh,hello again mister,is there something you want?
+0009=Well,what can you tell me about the four lost gems?
+0004=Do you need any help?
+0007=Who are you again?
+<0003>
+Yes I do I need you to get the four lost gems so I can restore peace to the land.
+0000=Ok,talk to you later,gotta go and look for the gems.
+<0004>
+Yes I do need help!  I want you to find the four lost gems so I can restore peace to the world!
+0009=Well,what can you tell me about the four lost gems?  
+0000=I must leave now
+<0005>
+Thank you for wanting to help me out.  I want you to find the four lost gems so I can restore peace to the world.
+0009=Well,what can you tell me about the four lost gems?
+0008=Do you have anything to give me?
+0000=I got to go
+<0006>
+Heh,do i know you?
+0015=Of course you do,you just spoke to me.
+0015=Huh,whad ya mean by that?
+0000=No,sorry to disturb you.
+<0007>
+I am the king of this great land.  I have lost four powerful gems and YOU need to find them!
+0002=Ok, I remember
+<0008>
+I have no items to give you until you made some progress on  your journey!
+0000=Well then i've got nothing to do here,bye.
+<0009>
+There is a lot to tell what would you like to know about them?
+0019=Where are the gems located at?
+0020=What Happened to them?
+0000=Ok that all i need to know.
+<0010>
+That is the farmer,he just sits there though.
+0026=What ya mean by 'sits there'?
+<0011>
+Yeah i do,you people download the code which transfers the intire town to your computer just so you forget to vote and put it in the trash can later.
+0027=I'm not like that,i'll vote!
+0000=Tough luck,he,he,see yah.
+<0012>
+NO!not a single one!
+0000=FINE!!!!!!!!!!!&%&#$%!#=)&/"
+<0013>
+That is the rocky mountain,in the middle of it there is  a chair size of the house,but you cant do nothing about it since my creator has not yet finished quest tutorial.
+0005=Oh,well let me ask you something else then.
+<0014>
+I am trying to get people to help me find my lost gems.  You are the only person so far that want's to help me!
+0000=Well then i'll start looking for them.
+<0015>
+Did I?I must have forgotten,you know,i have that something...i dont remember what the doctor called it.
+0013=Hmph,well can you tell me something obout that mountain?
+0000=It's called amnesia,you %$#//&%% and $$$/&(#"$" and &%$%$,naaaaargh....
+<0016>
+Well then,what can i do for you?
+0010=Well,what can you tell me about that guy over there
+0000=Nothing at all.
+<0017>
+That is not very nice of you,come back when you are in a better mood.
+0000=[Done]
+<0018>
+Hmph,yeah.
+0000=Well,i wont disturb you then.
+0007=What did you say your name was?
+<0019>
+The lost gems are located at the four corners of the world.  One in the desert, One in the forest, Two in the land of snow and ice.
+0009=I have another question to ask of you
+<0020>
+They were stolen by a great evil.  It will take a strong warrior with lots of spells in order to defeat this evil!
+0021=Who is this evil?
+0009=Ok let me ask you something else.
+<0021>
+The evil was my brother, he was good at first but then something happened and now he is trying to take over the world!
+0009=Ok I have another question
+<0022>
+Check the 'IsCursorOverNPC' function,it detects the position and calculates it trought the scroll bar values.
+0009=Ok let me ask you something else.
+<0023>
+In the map file it is specified what to say first and what to say if you have already talked to the character.
+0009=Ok let me ask you something else.
+<0024>
+It is all loaded in the map file,check the map file with notepad and check the clsMap.cls
+0009=Ok let me ask you something else.
+<0025>
+The Redirect tag is 0.
+0009=Ok let me ask you something else.
+<0026>
+He doesnt do anything,he just insults people.
+0000=Hmm,let me go talk to him,bye.
+<0027>
+Sure you will,well if many vote in the next submission i will be nicer.
+0000=Ok.
+<0028>

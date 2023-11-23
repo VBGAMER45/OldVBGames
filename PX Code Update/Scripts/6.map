@@ -1,0 +1,66 @@
+<PPOS>
+ 32 
+ 71 
+<MAP>
+>>>>CDDDDDDDDDE>>>>>>
+><>>F>>>>>>>>>G>>>>>>
+>>>>F>???????>G>>>>>>
+>>>>F>?>>>>=?>G>>>>>>
+>>>>>>?>?????>G>>>>>>
+>>>>F??>>>>>>>G>>>>>>
+>>>>@AAAAAAAAABE>>>>>
+>>>>>>>>>>>F<<<G>>>>>
+>>>>>>>>>>>F???G>>>>>
+>>>>>>>>>>>@A?AB>>>>>
+>>???>>>>>>>>?>>>>>>>
+>>????????????>>>>>>>
+>>???>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>CE>>>>>>>>>>>>>
+>>>>>>@B>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>
+</MAP>
+<NPC>
+Fairy
+90
+190
+1
+2
+Farmer
+190
+290
+3
+4
+Peasant
+400
+350
+5
+6
+</NPC>
+<SPEECH>
+<0001>
+Hello, I am the Fairy! is there something that you would like to know?
+0003=Who are you again?
+0005=Can you help me?
+0000=You know what,i dont realy want to talk to you,bye!
+<0002>
+Hello again good sir what do you want?
+0003=Who are you again?
+0004=Can you heal me?
+0005=Can you help me?
+<0003>
+I am the Fairy of the Forest.  I heal the people who are wounded in battle.
+0002=I have another question to ask.
+0000=Ok, I have to go now.
+<0004>
+Sure I will heal you!
+0002=I have another easy question to ask.
+0000=Ok, I have to continue on my journey.
+<0005>
+I wish I could but I am under a spell.  If you want to free me defeat the boss of the Forest Temple.
+0002=But just one little question!
+0000=Ok, I will try to.
+<0028>

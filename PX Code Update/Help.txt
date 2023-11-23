@@ -1,0 +1,113 @@
+Project X Online Help
+
+The Keys for movement are:
+J is Left
+L is Right
+K is Dowm
+I is Up
+U casts spells
+O is use items
+T is to talk to npcs and use computers
+
+To Mine, plant, harvest, cut down trees, drink or fish.
+Right click on the piece of land that has gold or water then select your choice
+wait for the popupmenu!
+
+Droping and Picking up Items:
+To drop an item right click on the picture of the item and select drop
+To pick up items go up to the item and right click on the ground near it and select pick up.
+
+Newbie Tips:
+
+I would suggest that you fight some chickens they are level one and they
+are west of where you start!
+
+If you are at the edge of the screen and what to see what is blocking your path
+press the center character button under the player frame.
+
+Good Luck Newbies and don't give up!
+
+Attribute Points:
+Each time you level you get five attribute points! 
+With them you can add health, mana, stamina,
+dexiterity,wisdom,inteligence,strength,quickness
+
+SkillPoints:
+You get a skill point each time you level!
+Skillpoints are used to train skills
+
+Skills Percent:
+At 100% all your skills are at 100%
+See more information under death
+
+Death:
+Each time your life goes to zero you die.
+When you die your skills percent goes down by 5 percent
+which means all your skills are now down 5 percent
+You return to newbie area each time you die.
+
+Npc's:
+You can walk up to an npc or a computer and press T to talk to it or use it.
+IF you click on an npc you will target it you will then be able to use the following commands.
+/trade
+/hail
+/gossip
+For Npc Bankers you can use the following commands.
+/balance
+/desposit
+/withdraw
+
+
+Commands:
+/hidemeter Hides the meter on the screen
+/showmeter Shows the meter
+/showstats Shows the bars if they are hidden
+/warp For admins only
+/withdraw  Takes money out of your bank account
+/deposit Puts Money in your bank account
+/bank How much money you have in the bank
+/Loan Takes out a 200 dollar Loan
+/kills Gets how many kills you have
+/deaths Gets how many times you died
+/burden How much you can carry 
+/fish How many fish you have
+/die Kills yourself
+/date Gets the date
+/about Gets who made the game
+/ip Returns your ip address
+Stuff that will work soon
+/captureflag
+/joined
+/joingreen
+/quitgame
+/landbuy
+/landsell
+
+Questions?
+
+How do I raise my skills like Melee Defense, Magic Defense, Sword, Cast Spell, etc?
+
+You raise skills by using them for example, when you cast spells you raise your cast spell skill
+
+How do I find out what lvl monster I am attacking and how much life they have?
+
+Just put your cursor over them a ToolTip will pop up saying their lvl and life
+
+How do I Cast Spells against monsters?
+
+Click on the land close to the monster or the land the monster is on then cast it!
+
+How do I change Weapons, Items, Armor etc?
+
+Either click on the item or click on the box that says weapon spot, item spot, armor spot etc
+
+How do I use computers in the game?
+
+To use computers go up to them then press T.
+
+Online Features:
+The following features only work in online mode
+/withdraw
+/deposit
+
+More Help coming soon!

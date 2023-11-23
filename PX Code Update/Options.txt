@@ -1,0 +1,12 @@
+ShowPlayerNames
+1
+AttackPlayers
+0
+SoundEffects
+1
+Music
+1
+SaveChatLog
+0
+Log
+Yes

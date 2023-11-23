@@ -1,0 +1,4 @@
+These Scripts control the npc text. It is a very cool how it works.
+The ones with the .lght extension are for the lights in the game!
+
+Jonathan Valentin

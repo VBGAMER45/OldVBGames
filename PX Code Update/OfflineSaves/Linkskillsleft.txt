@@ -1,0 +1,22 @@
+Run 10
+Cast Spell 20
+Swim 4
+Scan 4
+Stealth 20
+Dagger 8
+Fail 10
+Staff 12
+Spear 10
+Sword 18
+The Force 30
+Bow 20
+Bombs 16
+BlackSmith 20
+Miner 18
+Hunter 14
+Farmer 22
+Builder 16
+Magic Defense 24
+Mace 6
+Axe 6
+

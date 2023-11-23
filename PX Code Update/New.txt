@@ -1,0 +1,417 @@
+3:49 PM 2/15/03 Ok i made all the shops now for the world and fixed some more bugs.
+
+12:01 PM 2/15/03 Finshed all the store code! I finally found a way to make the pictures scroll in the pictureboxes
+of the store. I think it is kinda neat.
+
+12:38 PM 2/12/03  Worked on redoing the keydown code and made the Random town generator work better
+I finally got snow to work pretty well!
+
+5:32 PM 2/10/03 Wow a long time since a update.  I will continue to update this source.  I have added 
+extra data for maps to hold music, weater and other information.  I plan on redoing the store code soon!.
+
+7:00 PM 10/17/02 The client now checks for illegal characters in username,password and character name.
+
+4:47 PM 10/10/02 Added more commands such as /removemember /demote /addrank /addclanmember
+I am adding more commands for guilds now! /transferclan /disbandclan /clandeposit /withdrawclan
+/addally /startwar /clan
+Added Admin Commands:
+/killplayer /muzzleplayer /jailplayer /warpstart /warpplayer /kickplayer /generatestats /setmessage
+
+7:06 PM 10/9/02 Redid parts of the server code.  The server now handles the /tell command
+/kills command /deaths command and /makeclan command.
+
+6:13 PM 10/8/02 Worked on server code.  Fixed teleporting on the server side.  Also working
+on server side stores, allowing gamemasters to make there own stores.
+
+7:56 PM 10/6/02 Worked on fullscreen mode more making improvements
+
+6:33 PM 9/25/02 Now you can also drag items around on the screen in the map editor.
+
+5:18 PM 9/25/02 Now in the map editor function if you click on a npc you can drag then around the map.
+I may add this to items and monsters too.
+
+6:17 PM 9/8/02  Added the imagefx module the game now has inverse and grayscale modes.
+Added teleporters to alternate universes inside the game that are never the same.
+
+8:01 PM 9/6/02 Added the abilty to toggle tiletypes in the game.
+
+10:31 AM 8/22/02 Now moves your player to the last position they were at.
+
+5:07 PM 8/21/02 Fixed some bugs with the teleporter form, now warps to the correct map.
+
+8:15 AM 8/21/02 Fixed dropping of items from the character. Added Function CalculateBurden()
+to the game to find out the players burden with all there items.
+
+7:23 AM 8/21/02 Redid centering character now works very fast.
+
+9:00 PM 8/20/02 Added a new function to move a player to an x y postion on the map instanly
+use call rpg.fastxywarp(x,y)
+
+8:49 PM 8/19/02 Now shows the quanity of the items and their burden and Working on trap system right now.
+
+7:41 PM 8/18/02 Redid the spell system to allow more spells and to make the code more efficent.
+
+1:10 PM 8/9/02 I redid the servercommands sub and now the game loads and saves player items!
+I also made saving and loading the player data more secure.  You can use it by uncommenting 
+the put and get staments in loadcharacter and savecharacter. Right now i am working on traps
+and a new spell system
+
+9:55 AM 8/7/02 I redid the iteminfo module and made it a lot smaller the code is a lot better now
+and will be a lot easier to understand. Redid the store form and improved the coding a lot.
+
+5:13 PM 8/6/02 Redid the way it loads the player infomation it is now faster and takes a lot less code
+I am optimizing all the code.
+
+7:57 PM 7/26/02 Added Two new items The Orcania, and The Triforce.
+
+12:57 PM 7/26/02 Fixed another map editor bug in which you would loose your map due to the hurt tiles
+that cause your player to die, and fixed store popup in map editor.
+
+11:06 AM 7/26/02 Fixed bug in map editor, it used to show the monsters on newbie, when  you 
+load the map, now it shows the monsters on the map that is loaded.
+
+1:28 PM 7/24/02 Added the abilty to read signs and working on training mode.
+
+7:55 PM 7/22/02 Added Zelda Mode. Fixed bug when you pressed the closed button on the game.
+
+9:49 PM 5/25/02 Doors now open and close.
+
+9:26 PM 5/24/02 Some small updates to the server.  The server now loads all maps.  You can now
+add monsters to the server, npcs, and items.
+
+6:43 PM 4/27/02 Made a cool credits screen!
+
+8:40 AM 4/19/02 Fixed two bugs finding monsters that are not there and attacking a monster that is not visible.
+
+11:19 AM 4/14/02 Redid warps. Fixed death bug where monster would keep killing you.
+Fixed playername bug where label would be off the player. Fixed some bugs with online play.
+
+9:09 PM 4/8/02 Fixed many bugs in the game today.
+
+5:39 PM 4/5/02 Forms are now skinable! Except if too many items are skined some will not show.
+
+6:18 PM 4/4/02 Fixed offline character creation bug.
+
+5:09 PM 3/23/02 Finally fixed all bugs in character creating and deleting.
+
+7:44 PM 3/19/02 Getting things ready for online play!
+
+8:12 PM 3/17/02 Redid the Item system.  Recoded it in order to do advanced functions.
+Working on Item uses.
+
+8:06 PM 3/14/02 Worked on spell animations.
+
+8:24 PM 3/9/02 Redid the login code it no longer needs a webserver in order to do logins! Also redid the
+character creation code.
+
+9:26 PM 3/8/02 You can now type out the spells for example type /healall to cast the heal all spell or
+/fireball to use the fireball spell.
+
+9:31 AM 3/3/02 Redoing the way I deal with npcs and monsters.  I am making it easier!
+Working on more npc funcitions.
+
+6:48 PM 2/21/02 Added north and south oceans with trees to random map generator.
+
+4:46 PM 2/20/02 Added Cliffs to random map generator and added flowers. Added big trees! Added
+water maps with land east and west.
+
+6:04 PM 2/19/02 Fixed a couple map editor bugs.  Added cool closing screen. Neated up the code.
+Flowers added to the map generator. Added desert plants to it too. Added snow trees and plants. Added Rivers
+
+4:50 PM 2/14/02 Working on totally random map generator!  Coming along nicely!  Have three types
+coded already forest, desert, and dead forest.
+
+5:54 PM 2/12/02 Added the abilty to reconnect if you have been disconnected.  Added taunt system
+just enter the number.
+
+6:47 PM 2/11/02 Opened up the internet version for all to try!
+
+9:30 AM 2/10/02 Fixed bugs in the html stats and updated the website.
+
+4:41 PM 2/5/02 The game will now kick you off if you are idle to long.
+
+3:50 PM 1/31/02  Added a very mining system.  Each mine tile has a limit and you mine all the stuff
+it creates a blank floor tile which allows you to make your own tunnels!
+
+5:48 PM 1/29/03  Add many options to the map editor such as brightness, weather, music, 
+sound effect tiles, warp tiles, mine tiles, vender tiles.
+
+6:47 PM 1/28/03 I had tried to work on new account login code.  It worked well at first but then
+kept giving wrong protocol errors.  So now i am working on the mines, the bank, the mint maps
+and i am working on a very cool mining system.
+
+11:00 AM 1/27/02 Add thunder and rain effects.  Players now have pk protection until level5
+
+1:35 PM 1/26/02 Added Lightining! Can be different colors and moves in random spots.
+
+7:05 PM 1/24/02 Fixed the map editor button on the splash screen.
+
+7:54 AM 1/22/02 Added a ton of server side code for the capture the flag game.  Still have to add it
+to the client.  Working on banking system got the withdraw and deposit commands working!
+
+2:27 PM 1/21/02 Added tons of clan things!
+
+7:03 AM 1/21/02 Today I will be working on the clan code!  I found a new way to make things faster
+too. Got the Message Board Set up.  For online mode only use T to use it.
+
+9:15 PM 1/20/02 I am redoing a lot of the client/server componenets to the game.  I have added
+the option to report a bug in the game and I am working on adding an in game message board!
+
+2:33 PM 1/16/02 Major work on the server side. I am speeding things up adding more options.
+
+3:30 PM 1/15/02 Updater now unzips files.  Exe now gets updated!  Added swear protection for the younger audience.
+Admins have an @ in front of their name.  Fixed a couple of things with the server.
+
+9:15 AM 1/13/02 Added A Quest Generator!  I completed the first kind of quest i will add four more different kinds!
+Fixed a couple of save monster, save item, and save npc bugs.
+
+8:22 PM 1/12/02 Added somethings to stop cheaters.  Added the option to turn off animated tiles.
+Improved Internet code and internet play is now twice as fast!
+
+5:09 PM 1/8/02 New AutoUpdater Works Well!!
+Now that I have the core gameplay. I will be only working on internet functions.
+
+8:42 AM 12/31/01 Added animated tiles but it kinda messes up character movement.
+
+2:34 PM 12/30/01 I added a cool lighting system to the game!  I can add multiple lights of many
+different colors to the map!
+
+4:56 PM 12/28/01  I added a new tile that will cut my coding in half the exit tile saves your old
+postion then once you go on it you go back to your old location!
+
+12:36 PM 12/28/01  Adding computers to interact with in the game.
+
+8:40 AM 12/27/01 Made five more maps!  Fixed a load map bug in the editor.  
+Created another town!
+
+4:49 PM 12/26/01 Fixed a bug with the Broad Swords.  You now need seeds to grow plants!
+Monsters will now drop money when they die and is automaticly added to your player and the
+amount of money depends on the monster level.
+
+7:23 AM 12/23/01 Added npcs that move! Fixed general store and horse ranch bugs.
+Fixed clear screen bug.  Added another map working on coding quests!
+
+6:41 PM 12/22/01 If you bump into monsters while in stealth you will now be taken out of stealth.
+Fixed drink water bug.
+
+1:16 PM 12/22/01 	Fixed store bugs. Fixed a drop bug where it would drop unarmed.
+Fixed boss bug.  Coded more weapons.
+
+10:30 AM 12/22/01 Added boss for the Forest Temple!
+
+9:51 AM 12/22/01 You can now sell some items at the stores! Fixed plant seeds bug and
+fixed another harvest bug! Fixed cut down tree bug.
+
+8:21 AM 12/22/01 Some monsters will now use stealth like the stalker.
+
+5:35 PM 12/19/01 Fixed a bug when you press a key to soon when the game loads.
+Fixed Harvest bug.
+
+4:54 PM 12/18/01 Fixed a bug monsters no longer follow you when they are dead.
+Added Guard mode so you can guard areas!
+
+5:27 PM 12/16/01  Fixed invisible monster attacking bugs. Added cheats for the Contest
+
+8:56 AM 12/16/01 You can now attack monsters using spells!
+
+8:19 AM 12/16/01 You can now rasie weapon skills by using them in combat!  Working on spells now!
+
+4:52 PM 12/13/01  Skills like melee, magic defense, and stealth can be raised by using them now!
+
+4:21 PM 12/12/01  All monsters now attack either using melee, spells, or both!  Fixed a couple of bugs.
+Working on adding differenet  monsters for the game
+
+7:05 PM 12/11/01 Added /heal and /revive spells finally!
+
+6:09 PM 12/11/01 You can now evade monster attacks and fixed many monster bugs.
+I also fixed a stealth bug.
+
+7:33 AM 12/11/01 The monsters will now follow you when they are attacking you!
+Improved monster moving toward you!  Working on more monster attacks now!
+
+7:51 PM 12/10/01 Monsters will now only cast if they have enough mana and their mana now gets
+restored over time.  You  can scan for monsters in stealth and monsters will scan for you in stealth.
+
+7:24 PM 12/10/01 Monsters now cast spells. I am still adding more monster attacks!  
+
+6:28 PM 12/10/01 I am coding stealth And I have been working on adavanced  Monster AI
+
+6:26 PM 12/6/01 Finished the 1st Boss Level.  Added fish pics.  All items can now be droped!
+Fixed a couple bugs with dropping items!  I found out something cool that I can do I can stack items
+and you pick up all the items in the stack at one time! This gives me an idea for treasure chests!
+Fixed a way to duplicate items when you drop them.
+
+6:06 PM 12/5/01 Added a new feature called Center Character it will help a lot in the dungeons.
+It only centers  the character if it can!
+
+7:27 PM 12/4/01 I am on a roll!  I fixed another bug now the popupmenu appears faster and
+it gives you the correct choices and fixes errors!  Also fixed up the interface!
+
+7:00 PM 12/4/01  Finally got the full night and day system workings.  You will see
+the screen get darker as it gets later in the day and you will see it get lighter as morning 
+comes closer!
+
+5:10 PM 12/4/01 Fixed another bug! now the game shows the entire map and i am working
+on.  Adding some more cool things for the VB Contest!
+
+6:56 PM 12/3/01  Fixed some  bugs in the world and added some cool form transtations!
+
+7:28 PM 12/2/01 I fixed a major bug!  The bug used to allow people to go through buildings when
+the map scrolled!
+
+9:17 AM 12/2/01  I have been fixing bugs and seting up quests for the VB Contest.
+
+4:28 PM 11/26/01 Cool News Instead of using a different tileset for night tiles.  I can now use
+some code to change light to dark and you will see the map get darker or lighter as the day goes on!
+
+6:31 PM 11/20/01 I am testing how many players I can have in the world at one time. 
+So far i have tired 10 people in the world at once.  I hope that i can get at least 50.
+The game is coded to handle a 100 people.
+
+7:27 PM 11/19/01 Finally figured out how to add those cool health meters like in Rpg World Online.
+If you close it the new health meter.  You can get it back by  typing /showstats
+
+4:11 PM 11/18/01 I redid the way you talk to npc's.  It is now a whole lot cooler!  You can ask them questions
+and they will respond and i made a nice chat window for it too!
+
+8:42 AM 11/18/01 Updated the server a little bit and other things.
+
+4:52 PM 11/17/01  I can now change item prices from the server"
+
+1:54 PM 11/9/01  All monsters now show dead bodys!
+
+7:17 PM 11/6/01 Snow added as a weather effect!!!
+
+4:35 PM 11/6/01 I have reduced the exe size by another 150kb! Still optimizing code and coding more items!
+
+5:06 PM 11/5/01 Coded 40 more items!  Reduced the size of the exe! Improving Code!
+
+11:09 AM 11/4/01 I have coded more items using the new interface hope to have it completly finished soon!
+
+8:18 AM 11/4/01 Worked more on the server side adding features that will help me!
+
+3:21 PM 11/3/01 You can now choose how much life,stamina,mana,strength,dex,quick,intel, and
+wisdom at the character creation screen!
+
+7:59 PM 10/30/01 Got the realtime stats 100% working yeah!!!!!!!!
+
+6:27 PM 10/30/01  Fixed many of the bugs in the realtime player stats
+
+8:00 PM 10/29/01 Worked on realtime player stats on the web site.  So you can look up other players
+and see there stats!.   It works like this you go to main index of accounts. Then you click on the player's
+account.  You then go to a page and see their characters.  You can then click on the character and see 
+all their stats!!!!!!!!!!!!!!!!
+
+4:30 PM 10/29/01 Working on improving the interface!
+
+8:02 PM 10/21/01 I plan to allow people to ask npc's questions and the npc's will respond!
+
+8:07 AM 10/21/01 Worked on allowing people to equip shoes, pants, helments, sheilds, armor, and swords
+
+7:05 PM 10/15/01 Added more admin options on the client. Like money=x mana=x health=x stamina=x skill=x etc
+
+6:29 PM 10/11/01 Working on adding animating tiles to the map editor
+
+6:59 PM 10/9/01 I can now control the weather from the server! Like night and day, snow and rain.  I can
+now make me admins from the server and i can send messages to certain people now using my new tell event.
+Look for using tell soon in the game to send secert messages.
+
+3:33 PM 10/8/01 Added Sluppy Store!  You can also buy camals and chickens from the horse ranch!
+
+3:56 PM 10/7/01 I can now put people into jail and muzzle them!  Level 50 Player's can own horses.
+Working a self sustanied economy.
+
+4:32 PM 10/6/01 I can now warp players around the screen!  I can warp players to the begining
+
+3:05 PM 10/6/01 Fixed a lot of the server code. Fixed the create account bug.
+
+5:20 PM 10/5/01  Added 15 New Items to use!
+
+7:20 PM 10/4/01  Added Single Player Mode!!!!!!!!!!!!!!!!!!!!!!!
+
+5:02 PM 10/4/01  I can now kill players if i want too!  Also did alot of work on the server code!
+
+7:43 PM 10/1/01  Started on code that make npc's walk around like chicken that moves around on
+a farm.
+
+6:36 PM 10/1/01  You can now drop items on the screen!
+
+8:19 PM 9/27/01  You can  now  pick up items!  Still working on adding them to your inventory.  Also
+I am working on allowing the use  of  more than one tile set for  a map.
+
+7:41 PM 9/25/01  Added more npc's!!!  Worked on the first temple.  Fixed many bugs.
+
+5:53 PM 9/23/01  Added the first dungeon called the forest temple!  Also added a lot more item's and npc's.
+I also got more idea's for story.
+
+6:28 PM 9/22/01  You can now add items to the map i am working on picking them up now
+
+6:43 PM 9/20/01  Worked on  improving the autoupdater.
+
+5:59 PM 9/20/01  Working on adding technologies and added more skills!
+
+7:51 PM 9/12/01 Added 10 more weapons!  Did more work on capture the flag!
+
+5:02 PM 9/10/01  Added Food Item's!  like pizza, burger, ice cream, mushroom, chicken. pepper and more
+I am also working on the world's first game called capture the flag!
+
+6:19 PM 9/9/01 Added many new weapon's!!! That you can use also added loading monster's!
+30+ new weapon's to use!!!! Added Potions to use!  Added loading of Npc's  With saving and loading of
+monster's and npc's i can do dungens, bosses, built in quests and huge battles!!!!
+
+5:03 PM 8/28/01  You can now talk to npc's!!!!!   Also added a lot more scripting functions!!
+
+12:23 PM 8/27/01  Added Npc'c!!!!!!!!!!
+
+7:21 AM 8/24/01  Added more spells that you can use and fixed some bugs.
+
+11:34 AM 8/23/01  Major news!! I redid the way i add monsters to map!  This allows me to add 
+as many monsters that i need!  
+
+11:34 AM 8/21/01  Monsters will now reappear after a while!
+
+12:34 PM 8/20/01 Updated the server! And added mod support to Project X Online!  Added Scripting
+Also made a development kit for Project X Online so you can design your own rpg!
+
+8:13 PM 8/12/01 Updated the server code! I can now edit players stats and graphics from the server!
+
+6:10 PM 8/12/01 	Added the abilty to sell your items and added the food store and general store!
+You can also harvest and plant seeds now!
+
+12:32 PM 8/11/01 Added the abilty to cut down trees! Charecters and Charecter Stats are now saved
+to the server! Working of Building Tiles and i fixed a couple of bugs!
+
+7:41 AM 8/11/01 Adding the abilty to fish for food and added the /fish command to tell you how
+many of each fish you have! Added many new charecters that you can be! You can also mine for gold
+now!  Gold is located near the chickens! Also added the /die command so you can kill yourself
+if you ever get stuck
+
+1:55 PM 8/2/01 Big news!  I got the nonwalkable tiles finally working!!!!!!!!!!!!
+
+7:28 PM 7/31/01 Added saving charecter, Admin cheats, and fixed the movement! Now shows 
+how many people are in the world!
+
+8:05 PM 7/29/01 Added attribute points!! Fixed some bugs!
+
+11:53 AM 7/22/01 Added /deposit Added /withdraw and /bank . Also added a title when you enter
+Added warping! Added more items to the stores.
+
+9:56 PM 7/21/01 Fixed exit client bug.  Add commands like /loan which allows you to borrow money
+also added /ip /date /about /kills /deaths /account /burden 
+
+5:07 PM 7/21/01 Finished the main world!!!!! Added offline map editor
+
+11:10 AM 7/8/01 You can now level and attack.  You can also die now!
+Added more monsters like Lion, Mutant, Undead, Deer, RockMan, Lost Mage and more!
+
+8:57 PM 7/7/01 Chickens were added and fixed some bugs!
+
+9:17 AM 7/7/01 Now you can create your own accounts!
+
+6:31 PM 7/5/01  Made the chat work! added players names!  Improved the server code! 
+Allows up to 16 people to play at once on one server and i can have multiple servers!
+I also got the maps working and will add the monsters soon!
+
+3:49 PM 6/19/01 Added New features Like the what's new
+
+

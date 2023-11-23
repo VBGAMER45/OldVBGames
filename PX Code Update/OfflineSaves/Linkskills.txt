@@ -1,0 +1,3 @@
+Unarmed Attack 20
+Melee Defense 20
+Magic Defense 20

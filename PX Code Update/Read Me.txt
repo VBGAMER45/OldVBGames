@@ -1,0 +1,93 @@
+####################################################################################################
+Project X Online
+By:  Jonathan Valentin
+http://www.visualbasiczone.com
+http://x.incyberspace.net
+http://www.projectxonline.net
+####################################################################################################
+Projectx Online Code Update
+8:16 PM 2/15/03
+
+Contents:
+
+1. Keys
+2. What is in this game?
+3.Tips
+4. Bugs
+5. Credits
+6. Contact
+
+Note: The following information has NOT been UPDATED!!!
+
+####################################################################################################
+
+1. Keys:
+
+I is to move up
+K is to move Down
+J is to move left
+L is to move right
+T is to talk to NPC's and to read signs
+U casts spells
+O is use items
+Control stops text for being entered while moving
+
+To Mine, plant, harvest, drink, pick up items, or fish.
+Right click on the piece of land then select your choice
+wait for the popupmenu!
+
+To drop an item right click on the item picture on the player screen then go to drop. Works for items and weapons.
+####################################################################################################
+2.  What is in this game!
+
+I have designed over 105 maps for this release.  I have coded the monster AI and the npc's and most of the items.  
+I have a soild map engine for the game that can handle over 100 items maps and npcs on the screen at once.
+I have a cool way to talk to npcs like an rpg called Arcanum.  I also have a neat way in loading monsters and saving them
+and a nice way to link maps together.  I have a full day and night cycle you wil see the it get darker as the day goes on 
+and then get lighter when morning comes.  I also added shops to buy items, gold mines to mine gold, fish to fish, seeds
+for crops and you can harvest the crops.  You can also cut down certain trees.  I also added special dies that will warp
+you, hurt you, or even kill you.  There is also internet play which you can play with up to abou 100 people at once.  Unfortunalty 
+my high speed connection hasn't been installed yet for this release. Now here is some explanations on things that didn't get
+into this release.  I did not put more animations in the game like for when the player goes left or right because I am not a good
+artist and it makes things easier too look for animations in future releases. Also i did not add more quests or npcs because i was
+busy working out all the bugs in the basic engine and improving the monster AI.  There is also  a quest maker and a system to
+report bugs and post messages.
+####################################################################################################
+3. Tips
+
+Store Editor allows you to make custom stores.
+
+Linker is a small program that will link all your maps together. 
+
+You can contact me to get a kit that will allow you make your own monsters, items and npc's for the game.
+
+To see how far i have come over the last couple of months open up new.txt it is the project log for this game.
+####################################################################################################
+4.  Bugs:
+
+Here are a couple of bugs that I am working on getting fixed.
+
+
+####################################################################################################
+5.  Credits
+
+There is many people to list here.
+
+Rummager for graphics from the game RpgWO which can be found at http://www.rpgwo.com
+Rummagers site at http://www.angelfire.com/super/rummager
+
+Web site by James Schoaf
+
+RpgMaker 2000 for providing the cool tiles that you see in my game.
+The VB Community for providing all these wonderful samples and without them this game would not exist.
+And many many more people!
+
+####################################################################################################
+6. Contact
+
+You can email me at:
+vbbestgame3@hotmail.com
+ICQ #: 98464985
+Aol Screen Name vbgamer46 and vbgamer48
+
+Jonathan Valentin
