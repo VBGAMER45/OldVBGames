@@ -1,0 +1,32 @@
+Line 100: Class MSComctlLib.ProgressBar of control ProgressBar4 was not a loaded control class.
+Line 147: Class ComctlLib.ProgressBar of control ProgressBar3 was not a loaded control class.
+Line 180: Class ComctlLib.ProgressBar of control ProgressBar2 was not a loaded control class.
+Line 212: Class ComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 252: Class ComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 918: Class ComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 106: The property name _ExtentX in ProgressBar4 is invalid.
+Line 107: The property name _ExtentY in ProgressBar4 is invalid.
+Line 108: The property name _Version in ProgressBar4 is invalid.
+Line 153: The property name _ExtentX in ProgressBar3 is invalid.
+Line 154: The property name _ExtentY in ProgressBar3 is invalid.
+Line 155: The property name _Version in ProgressBar3 is invalid.
+Line 186: The property name _ExtentX in ProgressBar2 is invalid.
+Line 187: The property name _ExtentY in ProgressBar2 is invalid.
+Line 188: The property name _Version in ProgressBar2 is invalid.
+Line 218: The property name _ExtentX in ProgressBar1 is invalid.
+Line 219: The property name _ExtentY in ProgressBar1 is invalid.
+Line 220: The property name _Version in ProgressBar1 is invalid.
+Line 259: The property name _ExtentX in Toolbar1 is invalid.
+Line 260: The property name _ExtentY in Toolbar1 is invalid.
+Line 261: The property name ButtonWidth in Toolbar1 is invalid.
+Line 262: The property name ButtonHeight in Toolbar1 is invalid.
+Line 264: The property name ImageList in Toolbar1 is invalid.
+Line 265: The property name _Version in Toolbar1 is invalid.
+Line 304: The property name Buttons in Toolbar1 is invalid.
+Line 921: The property name _ExtentX in ImageList2 is invalid.
+Line 922: The property name _ExtentY in ImageList2 is invalid.
+Line 924: The property name ImageWidth in ImageList2 is invalid.
+Line 925: The property name ImageHeight in ImageList2 is invalid.
+Line 926: The property name MaskColor in ImageList2 is invalid.
+Line 927: The property name _Version in ImageList2 is invalid.
+Line 954: The property name Images in ImageList2 is invalid.

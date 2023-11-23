@@ -1,0 +1,14 @@
+This program was made by Jonathan Valentin
+The source code is a avaiable
+I have a Space Invaders game
+I also have a Frogger game
+In the making is the Simpsons were you can be over 20 differnt charecters
+ The simpsons has three worlds
+If you discover a bug contact me
+If you need more help look in read me
+The game should be run in 32bit true color.
+Please try the four new add on packs and sign up so you can get free bug fixes and updates
+Other products Active X controls
+Miner a mining game
+Get the flag a four player game were you try to get the other persons flag.
+

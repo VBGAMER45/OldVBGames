@@ -1,0 +1,26 @@
+Line 94: Class ComctlLib.ProgressBar of control ProgressBar6 was not a loaded control class.
+Line 107: Class ComctlLib.ProgressBar of control ProgressBar2 was not a loaded control class.
+Line 140: Class ComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 176: Class ComctlLib.ProgressBar of control ProgressBar3 was not a loaded control class.
+Line 209: Class ComctlLib.ProgressBar of control ProgressBar4 was not a loaded control class.
+Line 242: Class ComctlLib.ProgressBar of control ProgressBar5 was not a loaded control class.
+Line 101: The property name _ExtentX in ProgressBar6 is invalid.
+Line 102: The property name _ExtentY in ProgressBar6 is invalid.
+Line 103: The property name _Version in ProgressBar6 is invalid.
+Line 113: The property name _ExtentX in ProgressBar2 is invalid.
+Line 114: The property name _ExtentY in ProgressBar2 is invalid.
+Line 115: The property name _Version in ProgressBar2 is invalid.
+Line 147: The property name _ExtentX in ProgressBar1 is invalid.
+Line 148: The property name _ExtentY in ProgressBar1 is invalid.
+Line 149: The property name _Version in ProgressBar1 is invalid.
+Line 151: The property name Min in ProgressBar1 is invalid.
+Line 152: The property name Max in ProgressBar1 is invalid.
+Line 182: The property name _ExtentX in ProgressBar3 is invalid.
+Line 183: The property name _ExtentY in ProgressBar3 is invalid.
+Line 184: The property name _Version in ProgressBar3 is invalid.
+Line 215: The property name _ExtentX in ProgressBar4 is invalid.
+Line 216: The property name _ExtentY in ProgressBar4 is invalid.
+Line 217: The property name _Version in ProgressBar4 is invalid.
+Line 248: The property name _ExtentX in ProgressBar5 is invalid.
+Line 249: The property name _ExtentY in ProgressBar5 is invalid.
+Line 250: The property name _Version in ProgressBar5 is invalid.
